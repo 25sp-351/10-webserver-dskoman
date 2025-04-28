@@ -1,0 +1,12 @@
+*.o
+*.out
+*.bak
+.vscode
+.history
+.jj
+.env
+.o
+.ob
+.exe
+node_modules/
+
