@@ -2,9 +2,9 @@
 
 Web server with three "functions":
 
-/calc/add/<num1>/<num2>
-/calc/mul/<num1>/<num2>
-/calc/div/<num1>/<num2>
+`/calc/add/<num1>/<num2>`
+`/calc/mul/<num1>/<num2>`
+`/calc/div/<num1>/<num2>`
 
 ## Prerequisites ##
 
@@ -19,8 +19,8 @@ Web server with three "functions":
 
 ## Running the server ##
 
-`./main.out` starts the server and listens on port 80
-`./main.out <port>` starts the server and listens on <port>
+- `./main.out` starts the server and listens on port 80
+- `./main.out <port>` starts the server and listens on <port>
 
 ## Testing with telnet ##
 
